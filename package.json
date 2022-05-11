@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Aditya Kumar",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
@@ -17,5 +17,8 @@
     "mongodb": "^4.5.0",
     "mongoose": "^6.3.3",
     "morgan": "^1.10.0"
+  },
+  "engines": {
+    "node": "16.x"
   }
 }
